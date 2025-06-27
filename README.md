@@ -1,28 +1,31 @@
 # 👋 Hi there! I'm Sunkara Navya Sri Sai
 
 🎓 B.Tech CSE Student | 💻 Full-Stack Web Developer | 🤖 Machine Learning Enthusiast  
-📍 Bhimavaram, Andhra Pradesh | 🌱 Always Learning & Building
+📍 Nizamabad, Telangana | 🌱 Always Learning & Building
 
 ---
 
-### 🔍 About Me
+### 🧾 About Me
 
-I'm an enthusiastic computer science undergrad passionate about building real-world web and ML applications. I’ve built and deployed full-stack apps, worked with machine learning models, and recently started exploring Flutter.
+I’m an enthusiastic computer science undergrad passionate about building impactful web and ML applications. I’ve developed full-stack platforms, built predictive models using real-world data, and actively participate in college and tech communities.
 
-- 👩‍🎓 B.Tech in Computer Science @ SRKR Engineering College (2022–2026) – **8.83/10 CGPA**
-- 🔭 Currently Working On: Full-Stack Projects, ML Apps.
+- 👩‍🎓 B.Tech in Computer Science @ SRKR Engineering College (2022–2026) – **CGPA: 8.78/10**
+- 🔭 Currently Working On: MERN-based e-commerce projects, ML apps, and AWS cloud
+- 💼 Open to internships, research, and full-time opportunities
 - 📫 Email: [navyasunkara049@gmail.com](mailto:navyasunkara049@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/sunkara-navyasrisai-](https://www.linkedin.com/in/sunkara-navyasrisai-)
+- 🌐 LinkedIn: [linkedin.com/in/navya-sri-sai-sunkara-6876a5311](https://www.linkedin.com/in/navya-sri-sai-sunkara-6876a5311)
 - 💻 GitHub: [github.com/Navya0311](https://github.com/Navya0311)
+- 🔍 LeetCode: [leetcode.com/u/navya_sunkara](https://leetcode.com/u/navya_sunkara/)
 
 ---
 
-### 🧠 Technical Skills
+### 🛠️ Technical Skills
 
-🧑‍💻 Languages:        Python, Java, C, JavaScript, PHP, HTML/CSS
-🌐 Frontend:         React.js, Chakra UI, Bootstrap, JavaScript
-🛠️ Backend:          Node.js, Express.js, Flask
-🗃️ Databases:        MongoDB, MySQL
-📦 Tools:            Git, GitHub, VSCode, Postman, Thunder Client,Insomnia, Excel
-🧪 ML/DS:            scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-📚 Concepts:         DSA, OOPs, OS, DBMS
+🧑‍💻 Languages:       C, Java, JavaScript, HTML, CSS
+🌐 Frontend:         React.js, Bootstrap, Chakra UI
+🛠️ Backend:          Node.js, Express.js
+🧪 ML/DS:            Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Feature Extraction
+🗃️ Databases:        MongoDB
+☁️ Cloud:            AWS EC2, S3 (Basic)
+🛠️ Tools:            Git, GitHub, Postman, VSCode
+🧠 Concepts:         DSA, OOPs, Problem Solving
