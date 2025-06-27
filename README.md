@@ -1,83 +1,81 @@
+<!-- Typing Animation Header -->
 <h1 align="center">
-  Hey there 👋 I'm <strong>Sunkara Navya Sri Sai</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=1000&center=true&vCenter=true&lines=Hi%2C+I'm+Sunkara+Navya+Sri+Sai+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Explorer+%7C+Cloud+Intern;Passionate+About+Solving+Real+World+Problems;I+Code+with+Purpose+%26+Learn+with+Passion."/>
 </h1>
 
+---
+
+## 👩‍💻 About Me
+
+Hi! I’m **Sunkara Navya Sri Sai**, a curious and creative developer from India 🇮🇳.  
+🎓 Final-year B.Tech (CSE) @ SRKR Engineering College – CGPA: **8.83/10**  
+💻 Passionate about crafting full-stack applications, exploring ML, and learning cloud & mobile tech.  
+I believe in **building tech that makes life simpler**, and I’m always learning something new.
+
+---
+
+## 🔧 Tech Toolbox
+
 <p align="center">
-  <b>Full Stack Developer | Machine Learning Explorer | AWS Cloud Intern</b><br>
-  Turning real-world problems into tech-driven solutions.
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,flutter,aws,html,css,git,postman,vscode" />
 </p>
 
 ---
 
-## 🌟 Who Am I?
+## 🚀 Projects
 
-I’m a passionate developer currently in my final year of **B.Tech CSE** at **SRKR Engineering College** (CGPA: **8.78/10**).  
-I love working across the stack — from building intuitive frontends to crafting scalable backends and intelligent ML models.
+### 🛍️ Sports Equipment Marketplace  
+**Tech:** MERN + Stripe  
+→ Built a dual-user e-commerce site with filtering, reviews, cart, and secure payments.
 
-🔭 I'm currently diving deep into:
-- 🧠 Machine Learning & Signal Processing
-- ☁️ Cloud Computing with AWS
-- 📱 Flutter for Mobile App Development
+### 🏏 IPL Match Winner Prediction  
+**Tech:** Python, Pandas, Scikit-learn  
+→ Trained a classification model to predict IPL match outcomes from historical match data.
 
----
-
-## 🛠️ What I Work With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,flutter,aws,git,postman,vscode,html,css" />
-</p>
+### 🌊 Submarine Signal Detection  
+**Tech:** Signal Processing + ML  
+→ Feature extraction and classification of real-time sonar signals using ML algorithms.
 
 ---
 
-## 💼 What I’ve Done (Briefly)
+## 💼 Internships
 
-- 🧠 **AI/ML Intern** @ Black Bucks Pvt Ltd  
-  Built ML workflows with scikit-learn, Pandas, and Matplotlib.
+### 🧠 AI/ML Intern – Black Bucks Pvt Ltd (June–July 2024)  
+- Built predictive ML pipelines using `pandas`, `matplotlib`, and `scikit-learn`  
+- Performed data cleaning, EDA, and model selection
 
-- ☁️ **AWS Cloud Virtual Intern** @ AICTE-EduSkills  
-  Deployed and configured infrastructure using EC2, S3, IAM.
-
-- 🥇 **Hackathon Finalist** (Top 10) @ SRKR  
-  Developed and pitched a live functional prototype in 24 hours.
-
----
-
-## 🚀 Projects I’m Proud Of
-
-**🛍️ Sports Equipment Marketplace**  
-> MERN stack e-commerce site — dual-user auth, filters, cart, payments
-
-**🏏 IPL Match Winner Prediction**  
-> ML model trained on historical cricket data using classification
-
-**🌊 Submarine Signal Detection**  
-> Used feature extraction + ML to classify real-time sonar data
+### ☁️ AWS Cloud Intern – AICTE EduSkills (July–Sept 2024)  
+- Hands-on with EC2, S3, IAM  
+- Deployed infrastructure, storage, and security policies on AWS
 
 ---
 
-## 📜 A Few Certifications
+## 🏅 Certifications
 
-- 🧪 Cisco: Python, C++, Cybersecurity  
-- ☁️ AICTE: AWS Cloud Foundations  
-- 🥇 Google Cloud Skills Boost: **Gold League**
-
----
-
-## 📢 Other Things I’ve Loved Doing
-
-- 🎤 Public Speaking – SRKR Toastmasters  
-- 👩‍💻 Leadership – Student Coordinator @ Inner Engineering Cell  
-- 🧠 Core Team – SRKR AST (Technical Team)  
-- 📢 Marketing Team – Master Orator Championship  
-- 🌱 Volunteering – Art of Living Foundation
+- 🐍 Cisco – Python Programming  
+- 💻 Cisco – C++ Programming  
+- 🔐 Cisco – Cybersecurity Essentials  
+- ☁️ AICTE – AWS Cloud Foundations  
+- 🥇 Google Cloud Skills Boost – **Gold League**
 
 ---
 
-## 📫 Let’s Connect
+## 🌟 Achievements & Roles
+
+- 🏆 Finalist – Top 10 at SRKR Internal Hackathon  
+- 🧠 Student Coordinator – Inner Engineering Cell  
+- 👩‍💻 Core Team – SRKR AST Technical Team  
+- 🎤 Member – SRKR Toastmasters (June 2023 – Jan 2024)  
+- 📢 Marketing & Campaign – Master Orator Championship  
+- 🌱 Volunteer – Art of Living Foundation
+
+---
+
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:navyasunkara049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/navya-sri-sai-sunkara-6876a5311"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/navya-sri-sai-sunkara-6876a5311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Navya0311"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/navya_sunkara/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
 </p>
@@ -92,4 +90,6 @@ I love working across the stack — from building intuitive frontends to craftin
 
 ---
 
-<p align="center"><i>"Code clean. Build smart. Stay grounded."</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&pause=2000&width=700&lines=✨+Build+boldly.+Learn+deeply.+Grow+continuously+✨;" />
+</p>
