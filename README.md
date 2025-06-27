@@ -19,10 +19,10 @@ I'm an enthusiastic computer science undergrad passionate about building real-wo
 
 ### 🧠 Technical Skills
 
-🧑‍💻 Languages:       Python, Java, C, JavaScript, PHP, HTML/CSS
+🧑‍💻 Languages:        Python, Java, C, JavaScript, PHP, HTML/CSS
 🌐 Frontend:         React.js, Chakra UI, Bootstrap, JavaScript
 🛠️ Backend:          Node.js, Express.js, Flask
 🗃️ Databases:        MongoDB, MySQL
-📦 Tools:            Git, GitHub, VSCode, Postman, Thunder Client, Excel
+📦 Tools:            Git, GitHub, VSCode, Postman, Thunder Client,Insomnia, Excel
 🧪 ML/DS:            scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 📚 Concepts:         DSA, OOPs, OS, DBMS
