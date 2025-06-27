@@ -50,7 +50,7 @@ I believe in **building tech that makes life simpler**, and I’m always learnin
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
 - 🐍 Cisco – Python Programming  
 - 💻 Cisco – C++ Programming  
@@ -82,10 +82,10 @@ I believe in **building tech that makes life simpler**, and I’m always learnin
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Top 3 Only)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navya0311&theme=gruvbox&no-frame=true&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Navya0311&theme=gruvbox&no-frame=true&row=1&column=3" />
 </p>
 
 ---
