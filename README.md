@@ -1,115 +1,121 @@
-<!-- Animated Header -->
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunkara+Navya+Sri+Sai;Full+Stack+Developer+%7C+ML+Enthusiast;Flutter+%7C+AWS+%7C+MERN+Stack+Lover](https://www.pngarts.com/files/8/Github-Logo-Transparent-Background-PNG.png)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+SUNKARA+NAVYA+SRI+SAI;Full+Stack+Developer+%7C+Machine+Learning+Enthusiast;Cloud+%7C+Flutter+%7C+AWS+%7C+MERN+%7C+Open+to+Opportunities" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding" />
 </p>
 
 ---
 
-### 🙋‍♀️ About Me
+### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE | SRKR Engineering College | CGPA: **8.78/10**
-- 👩‍💻 MERN Developer | AI/ML Explorer | AWS Cloud Learner
-- 🌱 Currently learning **Flutter** and **Deep Learning**
-- 🚀 Passionate about building user-focused applications and data-driven ML solutions
-- 📫 Reach me: navyasunkara049@gmail.com
+🎓 Final-year B.Tech CSE student at **SRKR Engineering College**, Andhra Pradesh  
+📊 CGPA: **8.78 / 10**  
+🌱 Passionate about building user-centric web & ML applications  
+🚀 Skilled in MERN stack, Flutter, AI/ML, and AWS Cloud  
+📫 Reach me: **navyasunkara049@gmail.com**
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact
 
-<p align="center">
-  <a href="mailto:navyasunkara049@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/navya-sri-sai-sunkara-6876a5311"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Navya0311"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/navya_sunkara/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<p align="left">
+  <a href="mailto:navyasunkara049@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/navya-sri-sai-sunkara-6876a5311"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Navya0311"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/navya_sunkara/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Technical Skills
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
 ---
 
 ### 💼 Experience
 
-- **Black Bucks Pvt Ltd** (AI/ML Intern) – *June 2024 – July 2024*  
-  Gained hands-on experience in ML pipelines, data preprocessing, visualization & prediction using `scikit-learn`, `pandas`, `NumPy`.
+**Black Bucks Pvt Ltd** – *AI/ML & DS Intern*  
+June 2024 – July 2024  
+• Built ML pipelines with `pandas`, `matplotlib`, `sklearn`  
+• Real-world workflows: cleaning, EDA, model selection
 
-- **AICTE EduSkills** (Cloud Virtual Intern – AWS) – *July 2024 – Sept 2024*  
-  Learned basic AWS services (EC2, S3), security policies, storage, and virtual infra setup.
+**AICTE-EduSkills (Cohort 9)** – *Cloud Virtual Intern (AWS)*  
+July 2024 – Sept 2024  
+• Deployed EC2/S3, explored IAM, cloud storage, basic infra setup
 
 ---
 
-### 🚀 Projects
+### 💡 Projects
 
 #### 🛒 Sports Equipment Marketplace
-- MERN-based e-commerce platform for selling & buying sports gear.
-- Implemented filters, cart management, seller/buyer flow, and Stripe payment integration.
+**Tech:** MERN Stack  
+• Built dual-user e-commerce app for sports gear  
+• Product filtering, cart, reviews, Stripe payments
 
 #### 🏏 IPL Winner Prediction
-- ML model using past data and team stats to predict outcomes of IPL matches.
-- Used `scikit-learn`, feature engineering & model evaluation techniques.
+**Tech:** Python, scikit-learn  
+• Predicted IPL match winners using classification models  
+• Visualized data, selected features, tuned performance
 
-#### 🌊 Submarine Detection using ML
-- Signal classification app to detect submarines from sonar noise.
-- Feature extraction + classification = High-accuracy detection pipeline.
+#### 🌊 Submarine Detection
+**Tech:** Feature Extraction + ML  
+• Detected submarine signals vs noise  
+• Extracted features and trained classifier
 
 ---
 
 ### 📜 Certifications
 
-- 📌 Cisco: Python, C++, Cybersecurity  
-- 🏆 Google Cloud Skills Boost: **Gold League**  
-- ☁️ AICTE Virtual Internship (AWS Cloud)
+- 📌 **Cisco:** Python, C++, Cybersecurity Basics  
+- ☁️ **AICTE EduSkills AWS Internship**  
+- 🥇 **Google Cloud Skills Boost – Gold League**
 
 ---
 
-### 🌟 Achievements & Activities
+### 🏆 Achievements & Leadership
 
-- 🥇 Finalist (Top 10) – SRKR Internal Hackathon  
-- 🧠 Core Team – SRKR AST Technical Team  
-- 🎤 Member – Toastmasters Club (2023–24)  
-- 📢 Marketing & Campaigning Team – Master Orator Championship  
-- 🌱 Volunteer – Art of Living  
-- 💼 Coordinator – SRKR Inner Engineering Cell
+- 🥇 Finalist (Top 10) – SRKR Hackathon  
+- 💼 Student Coordinator – Inner Engineering Cell  
+- 🎤 Member – SRKR Toastmasters (2023–24)  
+- 👩‍💻 Core – SRKR AST Technical Team  
+- 📢 Campaign & Marketing – Master Orator Championship  
+- 🌱 Art of Living Volunteer
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navya0311&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navya0311&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=navya0311&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=navya0311&theme=radical" width="47%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navya0311&layout=compact&theme=radical" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navya0311&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
 
-> 🚀 *"Code with clarity. Learn endlessly. Share openly."*
+> 🌟 *"Write code that matters. Build projects that inspire. Learn continuously."*  
