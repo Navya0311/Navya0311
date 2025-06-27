@@ -29,3 +29,14 @@ I’m an enthusiastic computer science undergrad passionate about building impac
 ☁️ Cloud:            AWS EC2, S3 (Basic)
 🛠️ Tools:            Git, GitHub, Postman, VSCode
 🧠 Concepts:         DSA, OOPs, Problem Solving
+
+
+### 🏆 Achievements & Extracurricular Activities
+
+- 🎯 **Finalist (Top 10)** – Internal Hackathon at SRKR Engineering College  
+- 👥 **Team Lead** – Internal hackathon project team  
+- 🌿 **Volunteer** – Art of Living Foundation  
+- 🧭 **Student Coordinator** – SRKR People Association of Inner Engineering Cell  
+- 👨‍💻 **Core Team Member** – SRKR AST Technical Team  
+- 🎤 **Toastmasters Member** – SRKR Chapter (June 2023 – Jan 2024)  
+- 📢 **Marketing & Campaigning Team Member** – Master Orator Championship 2023 at SRKR  
