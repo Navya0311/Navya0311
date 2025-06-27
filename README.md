@@ -5,10 +5,10 @@
 
 ## 👩‍💻 About Me
 
-Hi! I’m **SUNKARA NAVYA SRI SAI**, a curious and creative developer from India 🇮🇳.  
+   Hi! I’m **SUNKARA NAVYA SRI SAI**, a curious and creative developer from India 🇮🇳.  
 🎓 Final-year B.Tech (CSE) @ SRKR Engineering College – CGPA: **8.83/10**  
 💻 Passionate about crafting full-stack applications, exploring ML, and learning cloud & mobile tech.  
-I believe in **building tech that makes life simpler**, and I’m always learning something new.
+   I believe in **building tech that makes life simpler**, and I’m always learning something new.
 
 ---
 
