@@ -3,12 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=1000&center=true&vCenter=true&lines=Hi%2C+I'm+Sunkara+Navya+Sri+Sai+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Explorer+%7C+Cloud+Intern;Passionate+About+Solving+Real+World+Problems;I+Code+with+Purpose+%26+Learn+with+Passion."/>
 </h1>
 
----
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>...
+<img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif"/>...
 
 ## 👩‍💻 About Me
 
-Hi! I’m **Sunkara Navya Sri Sai**, a curious and creative developer from India 🇮🇳.  
+Hi! I’m **SUNKARA NAVYA SRI SAI**, a curious and creative developer from India 🇮🇳.  
 🎓 Final-year B.Tech (CSE) @ SRKR Engineering College – CGPA: **8.83/10**  
 💻 Passionate about crafting full-stack applications, exploring ML, and learning cloud & mobile tech.  
 I believe in **building tech that makes life simpler**, and I’m always learning something new.
