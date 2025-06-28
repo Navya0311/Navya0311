@@ -18,24 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,java,flutter,aws,html,css,git,postman,vscode" />
 </p>
 
----
-
-## 🚀 Projects
-
-### 🛍️ Sports Equipment Marketplace  
-**Tech:** MERN + Stripe  
-→ Built a dual-user e-commerce site with filtering, reviews, cart, and secure payments.
-
-### 🏏 IPL Match Winner Prediction  
-**Tech:** Python, Pandas, Scikit-learn  
-→ Trained a classification model to predict IPL match outcomes from historical match data.
-
-### 🌊 Submarine Signal Detection  
-**Tech:** Signal Processing + ML  
-→ Feature extraction and classification of real-time sonar signals using ML algorithms.
-
----
-
 ## 💼 Internships
 
 ### 🧠 AI/ML Intern – Black Bucks Pvt Ltd (June–July 2024)  
